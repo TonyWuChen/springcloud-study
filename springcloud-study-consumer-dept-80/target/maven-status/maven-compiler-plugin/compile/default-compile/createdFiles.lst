@@ -1,0 +1,4 @@
+com\gxs\springcloud\config\ConfigBean.class
+com\gxs\springcloud\DeptConsumer80App.class
+com\gxs\springcloud\controller\DeptConsumerController.class
+com\gxs\rule\MyRandomRule.class
